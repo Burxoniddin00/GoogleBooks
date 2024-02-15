@@ -1,0 +1,694 @@
+.main__section {
+    margin-top: 2px;
+    width: 268px;
+    background: #ffffff;
+    box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  .offcanvas.show:not(.hiding),
+  .offcanvas.showing {
+    width: 552.47px;
+  }
+  
+  .img {
+    width: 24px;
+    height: 24px;
+  }
+  .main__section__sitey {
+    margin-top: 25px;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 218px;
+    height: 72px;
+    background: #f8fafd;
+    border-radius: 4px;
+    padding: 0 11px 0 10px;
+  }
+  .book {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-bottom: 5px;
+    margin-top: 27px;
+  }
+  .main__section__text {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155.6%;
+    color: #000000;
+  }
+  
+  .item__text {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    width: 130px;
+    height: 22px;
+    overflow: hidden;
+  }
+  
+  .item__name {
+    width: 130px;
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #757881;
+    height: 20px;
+    overflow: hidden;
+  }
+  .item,
+  .item {
+    margin-top: 15px;
+  }
+  
+  .main__cretElement__img {
+    width: 249px;
+    margin: 0 auto;
+    height: 238px;
+    background: #f8fafd;
+    border-radius: 5px;
+    padding: 18px 24px;
+  }
+  
+  .main {
+    display: flex;
+    gap: 39px;
+    background: #e5e5e5;
+  }
+  
+  .cretElement__inner {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 19px;
+    height: 44px;
+    overflow: hidden;
+  }
+  
+  .cretElement__taxt {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #757881;
+    margin-top: 3px;
+  }
+  
+  .cretElement__namber {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    color: #757881;
+    margin-bottom: 10px;
+  }
+  
+  .main__section2 {
+    margin-top: 40px;
+  }
+  
+  .main__cretElement {
+    width: 282px;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 13px 0 16px 0;
+  }
+  
+  .main__inner {
+    margin-left: 25px;
+  }
+  
+  .main__bookmark {
+    width: 120px;
+    height: 37px;
+    border: none;
+    background: #ffd80d;
+    border-radius: 4px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 5px;
+  }
+  .main__more {
+    border: none;
+    width: 120px;
+    height: 37px;
+    background: rgba(13, 117, 255, 0.05);
+    border-radius: 4px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #0d75ff;
+    margin-bottom: 5px;
+  }
+  
+  .main__btn__more {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    width: 246px;
+    margin: 0 auto;
+  }
+  .main__read {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 246px;
+    height: 37px;
+    margin-top: 5px;
+    background: #75828a;
+    border-radius: 4px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ffffff;
+    border: none;
+  }
+  
+  .cretElement {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+    flex-wrap: wrap;
+  }
+  .info__img {
+    width: 228.96px;
+    height: 299.59px;
+    border-radius: 5px;
+    margin-top: 45px;
+  }
+  .offcanvas-title {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #222531;
+    margin-left: 33.03px;
+  }
+  
+  .info__img_inner {
+    text-align: center;
+  }
+  
+  .offcanvas-header {
+    background: #f8fafd;
+  }
+  
+  .info__taxt {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 170.3%;
+    color: #58667e;
+    margin-top: 51px;
+  }
+  
+  .info__inner {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #222531;
+  }
+  .info__div {
+    margin-left: 46.7px;
+  }
+  
+  .info__inner,
+  .info__inner {
+    margin-top: 40px;
+  }
+  
+  .info__span {
+    padding: 11px 20px;
+    background: rgba(13, 117, 255, 0.09);
+    border-radius: 30px;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #0d75ff;
+  }
+  
+  .bookmarks__div {
+    width: 220px;
+  }
+  
+  .pagination {
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    gap: 5px;
+  }
+  
+  .page-item {
+    font-size: 20px;
+    border-radius: 15px;
+    background: #0d75ff;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  @media screen and (max-width: 1300px) {
+    .main {
+      gap: 20px;
+    }
+    #cretElement {
+      gap: 20px;
+    }
+  
+    .item {
+      width: 205px;
+      height: 72px;
+    }
+    .main__section {
+      margin-top: 2px;
+      width: 230px;
+    }
+  
+    .item__text {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 22px;
+    }
+  
+    .main__cretElement {
+      width: 252px;
+      padding: 13px 0 16px 0;
+    }
+    .item__name {
+      width: 130px;
+      font-family: "Noto Sans";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      color: #757881;
+      height: 20px;
+      overflow: hidden;
+    }
+    .main__cretElement__img {
+      width: 229px;
+      margin: 0 auto;
+      height: 213px;
+      border-radius: 5px;
+    }
+  
+    .cretElement__inner {
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 20px;
+      margin-top: 16px;
+      height: 44px;
+    }
+  
+    .cretElement__taxt {
+      font-weight: 500;
+      font-size: 11px;
+      line-height: 18px;
+      margin-top: 3px;
+    }
+  
+    .main__bookmark {
+      width: 100px;
+      height: 37px;
+      font-size: 14px;
+      line-height: 17px;
+      margin-bottom: 5px;
+    }
+    .main__more {
+      width: 100px;
+      height: 37px;
+      border-radius: 4px;
+      font-weight: 500;
+      font-size: 14px;
+    }
+  
+    .main__read {
+      width: 231px;
+      height: 37px;
+      border-radius: 4px;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 17px;
+    }
+    .main__btn__more {
+      gap: 3px;
+      justify-content: center;
+      width: 246px;
+    }
+  }
+  @media screen and (max-width: 1130px) {
+    .main {
+      gap: 20px;
+    }
+    #cretElement {
+      gap: 20px;
+    }
+  
+    .item {
+      width: 171px;
+      height: 72px;
+    }
+    .main__section {
+      margin-top: 2px;
+      width: 204px;
+    }
+  
+    .item__text {
+      font-weight: 400;
+      font-size: 11px;
+      line-height: 22px;
+      width: 90px;
+    }
+  
+    .main__cretElement {
+      width: 210px;
+      padding: 9px 0 9px 0;
+    }
+    .main__section__text {
+      font-family: "Rubik";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      width: 173px;
+    }
+    #item__name {
+      width: 100px;
+      font-size: 10px;
+      line-height: 18px;
+      height: 20px;
+    }
+  
+    .img {
+      width: 18px;
+      height: 18px;
+    }
+  
+    .bookmarks__div {
+      width: 210px;
+    }
+  
+    .item__name {
+      width: 130px;
+      font-family: "Noto Sans";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      color: #757881;
+      height: 20px;
+      overflow: hidden;
+    }
+    .main__cretElement__img {
+      width: 200px;
+      margin: 0 auto;
+      height: 204px;
+      border-radius: 5px;
+    }
+  
+    .cretElement__inner {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      margin-top: 12px;
+      height: 37px;
+    }
+  
+    .cretElement__taxt {
+      font-weight: 400;
+      font-size: 10px;
+      line-height: 20px;
+      margin-top: 3px;
+    }
+  
+    .main__bookmark {
+      width: 95px;
+      height: 29px;
+      font-size: 14px;
+      line-height: -4px;
+      margin-bottom: 5px;
+    }
+    .main__more {
+      width: 95px;
+      height: 29px;
+      font-size: 14px;
+      line-height: -4px;
+      margin-bottom: 5px;
+    }
+  
+    .main__read {
+      width: 192px;
+      height: 30px;
+      border-radius: 4px;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 17px;
+    }
+    .main__btn__more {
+      gap: 3px;
+      justify-content: center;
+      width: 215px;
+    }
+  
+    #main__delit__img {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .main {
+      gap: 10px;
+    }
+    #cretElement {
+      gap: 20px;
+    }
+  
+    .item {
+      width: 144px;
+      height: 68px;
+      padding: 0px 9px 0 5px;
+    }
+    .main__section {
+      margin-top: 2px;
+      width: 160px;
+    }
+  
+    .book {
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 28px;
+      margin-top: 27px;
+    }
+  
+    .item__text {
+      font-weight: 400;
+      font-size: 11px;
+      line-height: 22px;
+      width: 90px;
+    }
+  
+    .main__cretElement {
+      width: 166px;
+      padding: 9px 0 9px 0;
+    }
+    .main__section__text {
+      font-weight: 300;
+      font-size: 10px;
+      width: 130px;
+    }
+    #item__name {
+      width: 88px;
+      font-size: 10px;
+      line-height: 18px;
+      height: 20px;
+    }
+  
+    .img {
+      width: 18px;
+      height: 18px;
+    }
+  
+    .bookmarks__div {
+      width: 210px;
+    }
+  
+    .item__name {
+      width: 130px;
+      font-family: "Noto Sans";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      color: #757881;
+      height: 20px;
+      overflow: hidden;
+    }
+    .main__cretElement__img {
+      width: 164px;
+      margin: 0 auto;
+      height: 175px;
+      border-radius: 5px;
+    }
+  
+    .cretElement__inner {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      margin-top: 12px;
+      height: 20px;
+    }
+  
+    .cretElement__taxt {
+      font-weight: 400;
+      font-size: 10px;
+      line-height: 20px;
+      margin-top: 3px;
+      height: 27px;
+      overflow: auto;
+    }
+    .section2__div {
+      padding: 0;
+    }
+    .main__bookmark {
+      width: 62px;
+      height: 22px;
+      font-size: 10px;
+      line-height: -4px;
+      margin-bottom: 5px;
+    }
+    .main__more {
+      width: 62px;
+      height: 22px;
+      font-size: 10px;
+      line-height: -4px;
+      margin-bottom: 5px;
+    }
+  
+    .main__read {
+      width: 141px;
+      height: 24px;
+      border-radius: 4px;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+    }
+    .main__btn__more {
+      gap: 3px;
+      width: 160px;
+    }
+  
+    #main__delit__img {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+  
+    .main__section__container {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .pagination {
+      margin-top: 15px;
+      margin-bottom: 30px;
+      gap: 3px;
+    }
+  
+    .page-item {
+      font-size: 13px;
+    }
+  
+    .page-item {
+      text-align: center;
+      width: 20px;
+      border-radius: none;
+      background-color: inherit;
+      padding: 0;
+      margin: 0;
+      font-size: 2px;
+      color: #000000;
+    }
+  
+    .pagination {
+      margin: 0;
+      padding: 0;
+      margin-bottom: 30px;
+      margin-top: 20px;
+      gap: 0;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .page-item {
+      text-align: center;
+      width: 15px;
+      border-radius: none;
+      background-color: inherit;
+      padding: 0;
+      margin: 0;
+      font-size: 2px;
+      color: #000000;
+    }
+  
+    .pagination {
+      margin: 0;
+      padding: 0;
+      margin-bottom: 30px;
+      margin-top: 20px;
+      gap: 0;
+    }
+  
+    .section2__div {
+      padding: 0;
+    }
+    .input__select {
+      outline: none;
+      color: #000;
+      border: none;
+      color: #ffffff;
+      height: 22px;
+      background: inherit;
+    }
+    .header__showing{
+      gap: 0;
+    }
+  
+    .header__text{
+      padding: 0;
+    }
+  }
+  
